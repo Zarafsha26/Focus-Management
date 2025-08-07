@@ -1,4 +1,5 @@
 # Focus-Management
+
 # **Focus Management: How to Do It & Teach It to Others**
 
 ## **1. Understanding Focus Management**
